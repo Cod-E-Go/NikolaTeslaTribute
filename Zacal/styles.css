@@ -1,0 +1,70 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+}
+#tribute-title{
+    text-align: center;
+    color: #333;
+}
+#tribute-image{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+#tribute-caption{
+    text-align: center;
+    margin-top: 10px;
+}
+#tribute-content{
+    margin-top: 20px
+}
+#survey-title{
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+label{
+    margin-bottom: 5px;
+    display: block;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select,
+textarea{
+    width: 96%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+input[type="submit"]{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: #555;
+}
+input[type="radio"],
+input[type="checkbox"]{
+    margin-right: 5px;
+}
