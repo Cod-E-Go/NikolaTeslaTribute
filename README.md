@@ -1,3 +1,5 @@
+2nd Year 2nd Sem Activity
+
 # Nikola Tesla Tribute Page
 
 A basic tribute webpage dedicated to **Nikola Tesla**, built using **HTML** and **CSS**. This project serves as a beginner-friendly exercise to practice web development fundamentals like page structure, semantic HTML, and CSS styling.
